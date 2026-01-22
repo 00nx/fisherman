@@ -43,7 +43,7 @@ fisherman/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/fisherman.git
+git clone https://github.com/00nx/fisherman.git
 ```
 ```bash
 cd fisherman
